@@ -1,5 +1,5 @@
 ---
-title: "C'est qui le patron"
+title: "C'est qui le patron ?"
 order: 2
 in_menu: true
 ---
