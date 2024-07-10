@@ -1,5 +1,6 @@
 :root {
-    --couleur-primaire : #FF0000;
+    --couleur-primaire: #FF0000;
+text-shadow: 2px 2px black;
 }
 body {
   background: linear-gradient(45deg, #ff0000, #00ff00);
